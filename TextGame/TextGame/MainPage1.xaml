@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TextGame"
+             x:Class="TextGame.MainPage"
+             BackgroundColor="#00ee76">
+    <StackLayout>
+        <Label
+            Text="Mobile Text Game!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            Margin="0,50,0,50"
+            TextColor="DarkBlue"
+            Font="Bold, Large"/>
+
+        <StackLayout HorizontalOptions="CenterAndExpand"
+                     VerticalOptions="CenterAndExpand"
+                     Orientation="Horizontal"
+                     >
+
+            <Button x:Name="btnStart"
+                    Clicked="btnStartClicked"
+                    BackgroundColor="Transparent"
+                    Image="ButtonPlay.png"
+                />
+                <Button x:Name="btnExit"
+                    BackgroundColor="Transparent"
+                    Clicked="btnExitClicked"
+                    Image="ButtonExit.png"
+                />
+        </StackLayout>
+        <StackLayout>
+            <Label Text="©2018 Miles Rivera"
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

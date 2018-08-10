@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextGame.Android", "TextGame\TextGame.Android\TextGame.Android.csproj", "{44025C7A-3A9E-4D53-ACE0-7267CA4383AE}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TextGame", "TextGame\TextGame\TextGame.shproj", "{CDCA3EB2-4D40-4282-8F51-4AB493B0F6A4}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		TextGame\TextGame\TextGame.projitems*{44025c7a-3a9e-4d53-ace0-7267ca4383ae}*SharedItemsImports = 4
+		TextGame\TextGame\TextGame.projitems*{cdca3eb2-4d40-4282-8f51-4ab493b0f6a4}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44025C7A-3A9E-4D53-ACE0-7267CA4383AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44025C7A-3A9E-4D53-ACE0-7267CA4383AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44025C7A-3A9E-4D53-ACE0-7267CA4383AE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{44025C7A-3A9E-4D53-ACE0-7267CA4383AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44025C7A-3A9E-4D53-ACE0-7267CA4383AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44025C7A-3A9E-4D53-ACE0-7267CA4383AE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56AD4A61-2594-4518-A913-46D4FC86E735}
+	EndGlobalSection
+EndGlobal

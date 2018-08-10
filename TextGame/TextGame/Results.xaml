@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TextGame.Results"
+             BackgroundColor="{StaticResource PageBackgroundColor}">
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="PageBackgroundColor">#b0e2ff</Color>
+            <Color x:Key="HeadingTextColor">DarkGreen</Color>
+            <Color x:Key="LinkTextColor">DarkBlue</Color>
+            <Style x:Key="HeadingTextStyle" TargetType ="Label">
+                <Setter Property="FontAttributes" Value="Bold"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <StackLayout>
+        <Label
+            x:Name="lblHeading"
+            Text="Thanks for Playing!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            TextColor="{StaticResource HeadingTextColor}"
+            Style="{StaticResource HeadingTextStyle}"/>
+
+        <ListView x:Name="livResults"/>
+
+        <StackLayout HorizontalOptions="CenterAndExpand"
+                     VerticalOptions="CenterAndExpand"
+                     Orientation="Horizontal">
+
+            <Button x:Name="btnReplay"
+                    Clicked="btnReplayClicked"
+                    BackgroundColor="Transparent"
+                    Image="ButtonReplay.png"
+                />
+            <Button x:Name="btnExit"
+                    Clicked="btnExitClicked"
+                    BackgroundColor="Transparent"
+                    Image="ButtonExit.png"
+                />
+        </StackLayout>
+        
+        <StackLayout>
+            <Label Text="Tap for My GitHub"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand"
+                   TextColor="{StaticResource LinkTextColor}">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped ="lblGitHubLinkClicked" NumberOfTapsRequired="1"/>
+                </Label.GestureRecognizers>
+            </Label>
+            
+            <Label Text="©2018 Miles Rivera"
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

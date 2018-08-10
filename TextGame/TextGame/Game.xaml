@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TextGame.Game"
+             BackgroundColor="Black">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout.GestureRecognizers>
+                <TapGestureRecognizer Tapped="ScreenTapped" NumberOfTapsRequired="1"/>
+            </StackLayout.GestureRecognizers>
+            
+            <RelativeLayout HorizontalOptions="Center"
+                            HeightRequest="156"
+                            WidthRequest="208">
+                <Image x:Name="imgDisplay"/>
+            </RelativeLayout>
+
+            <StackLayout
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand">
+                <Label x:Name="lblText"
+                   HorizontalTextAlignment="Center"
+                   TextColor="White"/>
+            </StackLayout>
+
+            <StackLayout 
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand"
+                Orientation="Horizontal">
+
+                <Button x:Name="btnChoiceA"
+                    Clicked="btnChoiceAClicked"
+                />
+                <Button x:Name="btnChoiceB"
+                    Clicked="btnChoiceBClicked"
+                />
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

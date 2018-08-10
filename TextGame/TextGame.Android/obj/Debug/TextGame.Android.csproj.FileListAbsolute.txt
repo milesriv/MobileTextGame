@@ -1,0 +1,94 @@
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\bin\Debug\TextGame.Android.dll
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\bin\Debug\TextGame.Android.pdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\bin\Debug\com.companyname.TextGame.apk
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\bin\Debug\com.companyname.TextGame-Signed.apk
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Android.csprojResolveAssemblyReference.cache
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Android.csproj.CoreCompileInputs.cache
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Droid.App1.xaml.g.cs
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Droid.MainPage1.xaml.g.cs
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Droid.Game.xaml.g.cs
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Android.dll
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Android.pdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\android\bin\com.companyname.TextGame.apk
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\values\styles.xml
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\background.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\R.cs.flag
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\uploadflags.txt
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\bin\Debug\TextGame.Android.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\android\assets\TextGame.Android.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\backgroundapple.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\backgroundbanana.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\backgroundgrapes.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\backgroundstilllife.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\backgroundsugar.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Droid.Results.xaml.g.cs
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\buttonexit.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\buttonplay.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\buttonreplay.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\finalapple.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\finalbanana.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\finalgrapes.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\finalstilllife.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\bin\Debug\TextGame.Android.dll
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\bin\Debug\TextGame.Android.pdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\bin\Debug\com.companyname.TextGame.apk
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\bin\Debug\com.companyname.TextGame-Signed.apk
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Android.csproj.CoreCompileInputs.cache
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Droid.App.xaml.g.cs
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Droid.MainPage.xaml.g.cs
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Droid.Game1.xaml.g.cs
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Droid.Results1.xaml.g.cs
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Android.dll
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Android.pdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\android\bin\com.companyname.TextGame.apk
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\values\styles.xml
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\backgroundapple.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\backgroundgrapes.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\backgroundstilllife.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\backgroundsugar.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\buttonexit.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\buttonplay.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\buttonreplay.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\background.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\backgroundbanana.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\finalapple.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\finalbanana.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\finalgrapes.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\res\drawable\finalstilllife.png
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\R.cs.flag
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\uploadflags.txt
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\TextGame.Android.csprojResolveAssemblyReference.cache
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\bin\Debug\TextGame.Android.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\android\assets\TextGame.Android.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Miles\Documents\Visual Studio 2017\Projects\TextGame - Copy - Copy\TextGame\TextGame.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Miles\.nuget\packages\xamarin.forms\2.5.1.527436\lib\MonoAndroid10\FormsViewGroup.dll
+C:\Users\Miles\.nuget\packages\xamarin.forms\2.5.1.527436\lib\MonoAndroid10\Xamarin.Forms.Core.dll
+C:\Users\Miles\.nuget\packages\xamarin.forms\2.5.1.527436\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
+C:\Users\Miles\.nuget\packages\xamarin.forms\2.5.1.527436\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
